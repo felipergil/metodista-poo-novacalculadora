@@ -1,6 +1,6 @@
 # Sobre
 
-Atividade referente ao módulo de Programação Orientada a Objetos do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas da Universidade Metodista de São Paulo, cursado no primeiro semestre de 2014.
+Atividade referente ao módulo de Programação Orientada a Objetos do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas da Universidade Metodista de São Paulo, cursado no segundo semestre de 2014.
 
 # Descrição da Atividade:
 Crie uma classe em Java chamada CalculadoraAvancada. Sua classe não deve possuir nenhum atributo e apenas métodos para cada uma das seguintes ações:
